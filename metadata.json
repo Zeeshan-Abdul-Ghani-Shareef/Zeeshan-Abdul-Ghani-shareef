@@ -1,0 +1,8 @@
+{
+  "name": "Zeeshan's Portfolio",
+  "description": "Portfolio website of Zeeshan Ahmed showcasing projects, skills, certifications, and resume.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
